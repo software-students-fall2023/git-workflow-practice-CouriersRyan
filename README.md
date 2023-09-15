@@ -1,5 +1,5 @@
 # Git Practice
-  [Deferred Lighting](https://learnopengl.com/Advanced-Lighting/Deferred-Shading
+  [Deferred Lighting](https://learnopengl.com/Advanced-Lighting/Deferred-Shading)
     
 ---
 I have an interest in shaders and recently I wanted to explore what is known as
