@@ -14,3 +14,7 @@ opened a bunch of new possibilities to what I thought was possible with shaders,
 I would use color as substitute channels, but knowing that there is an in-built process
 for different kinds of outputs aside from color makes me feel like there are far more
 interesting things that can be done with shaders.
+
+---
+*I think this article is pretty interesting. I took computer graphics last semester and didn't learn about this.*<br>
+\- bradfeng02
